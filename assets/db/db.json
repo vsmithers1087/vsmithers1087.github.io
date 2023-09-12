@@ -1,0 +1,100 @@
+{
+    "data": [
+        {
+            "data-title": "Harrisimemna Trisignata",
+            "data-material": "Bronze",
+            "data-dimensions": "55mm x 55mm x 65mm",
+            "data-year": "2023",
+            "img src": "assets/images/Harrisimemna-trisignata.jpeg",
+            "available": "🟩"
+        },
+        {
+            "data-title": "Ganyra Howarthi",
+            "data-material": "Bronze, Silver",
+            "data-dimensions": "50mm x 50mm x 85mm",
+            "data-year": "2023",
+            "img src": "assets/images/Ganyra-howarthi.jpeg",
+            "available": "🟩"
+        },
+        {
+            "data-title": "Coptotriche Badiiella",
+            "data-material": "Bronze",
+            "data-dimensions": "50mm x 50mm x 65mm",
+            "data-year": "2023",
+            "img src": "assets/images/Coptotriche_badiiella.jpeg",
+            "available": "🟩"
+        },
+        {
+            "data-title": "Gelechiidae",
+            "data-material": "Bronze",
+            "data-dimensions": "35mm x 35mm x 42mm",
+            "data-year": "2023",
+            "img src": "assets/images/Gelechiidae.jpeg",
+            "available": "🟩"
+        },
+        {
+            "data-title": "Archips Myricana",
+            "data-material": "Bronze",
+            "data-dimensions": "55mm x 55mm x 80mm",
+            "data-year": "2023",
+            "img src": "assets/images/Archips-myricana.jpeg",
+            "available": "🟩"
+        },
+        {
+            "data-title": "Heliopetes Arsalte",
+            "data-material": "Bronze",
+            "data-dimensions": "45mm x 45mm x 65mm",
+            "data-year": "2023",
+            "img src": "assets/images/Heliopetes-arsalte.jpeg",
+            "available": "🟩"
+        },
+        {
+            "data-title": "Aster Cutworm",
+            "data-material": "Bronze",
+            "data-dimensions": "60mm x 60mm x 70mm",
+            "data-year": "2023",
+            "img src": "assets/images/Aster-cutworm.jpeg",
+            "available": "🟩"
+        },
+        {
+            "data-title": "Cercyonis Oetus",
+            "data-material": "Silver, Bronze",
+            "data-dimensions": "50mm x 50mm x 70mm",
+            "data-year": "2023",
+            "img src": "assets/images/Cercyonis-oetus.jpeg",
+            "available": "🟩"
+        },
+        {
+            "data-title": "Acrolophus Kearfotti",
+            "data-material": "Silver, Bronze",
+            "data-dimensions": "30mm x 30mm x 60mm",
+            "data-year": "2023",
+            "img src": "assets/images/Acrolophus-kearfotti.jpeg",
+            "available": "🟩"
+        },
+        {
+            "data-title": "Hypotrix Hueco",
+            "data-material": "Silver, Bronze, Unknown Stone",
+            "data-dimensions": "30mm x 30mm x 55mm",
+            "data-year": "2023",
+            "img src": "assets/images/Hypotrix-hueco.jpeg",
+            "available": "🟩"
+        },
+        {
+            "data-title": "Ponometia Acutus",
+            "data-material": "Silver, Bronze",
+            "data-dimensions": "40mm x 40mm x 55mm",
+            "data-year": "2023",
+            "img src": "assets/images/Ponometia-acutus.jpeg",
+            "available": "🟩"
+        },
+        {
+            "data-title": "Calephelis Freemani",
+            "data-material": "Silver, Black Agate, Bronze",
+            "data-dimensions": "N/A",
+            "data-year": "2023",
+            "img src": "assets/images/Calephelis-freemani.jpeg",
+            "available": "🟩"
+        }
+    ]
+}

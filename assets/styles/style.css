@@ -1,0 +1,137 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+nav {
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 0.5%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    color: black;
+    background-color: white;
+}
+
+header, footer {
+    background-color: black;
+    color: white;
+    padding: 2.0%;
+    text-align: center;
+}
+
+header a, footer a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    flex-grow: 1;
+    padding: 1.0%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+a.active {
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 1.2em; /* increase the font size */
+    color: white;
+}
+
+.grid {
+    display: grid;
+    gap: 1.0%; /* optional: adds some space between the images */
+    padding: 1.0%; /* add padding */
+}
+
+@media only screen and (min-width : 320px) {
+    .grid {
+        grid-template-columns: repeat(3, 1fr); /* 2 columns for mobile phones */
+    }
+    .modal {
+        height: 60%;
+        width: 90%;
+    }
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+    .grid {
+        grid-template-columns: repeat(3, 1fr); /* 2 columns for mobile phones */
+    }
+    .modal {
+        height: 60%;
+        width: 90%;
+    }
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+    .grid {
+        grid-template-columns: repeat(5, 1fr); /* 5 columns for larger screens */
+    }
+    .modal {
+        height: 80%;
+        width: 50%;
+    }
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+    .grid {
+        grid-template-columns: repeat(5, 1fr); /* 5 columns for larger screens */
+    }
+    .modal {
+        height: 80%;
+        width: 50%;
+    }
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+    .grid {
+        grid-template-columns: repeat(5, 1fr); /* 5 columns for larger screens */
+    }
+    .modal {
+        height: 80%;
+        width: 50%;
+    }
+}
+
+.grid img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.contact-page {
+    text-align: center;
+    font-size: 2.0em;
+}
+
+.modal-content {
+    height: 40vh;
+    padding-top: 2%;
+    margin: auto; /* This will center the image horizontally and vertically */
+    display: block;
+}
+
+.detail {
+    color: black;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 20px; /* increase the font size */
+}
+
+.available {
+    font-size: 30px;
+    text-align: center;
+}
