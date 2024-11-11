@@ -1,6 +1,30 @@
 {
     "data": [
         {
+            "data-title": "Aspilanta Oinophylla",
+            "data-material": "Bronze",
+            "data-dimensions": "40mm x 40mm x 77mm",
+            "data-year": "2024",
+            "img src": "assets/images/Aspilanta-oinophylla.jpeg",
+            "available": "🟩"
+        },
+        {
+            "data-title": "Thorybes Egregius",
+            "data-material": "Bronze",
+            "data-dimensions": "50mm x 50mm x 65mm",
+            "data-year": "2024",
+            "img src": "assets/images/Thorybes-egregius.jpeg",
+            "available": "🟩"
+        },
+        {
+            "data-title": "Leptodeuterocopus Neales",
+            "data-material": "Bronze",
+            "data-dimensions": "40mm x 40mm x 78mm",
+            "data-year": "2024",
+            "img src": "assets/images/Leptodeuterocopus-neales.jpeg",
+            "available": "🟩"
+        },
+        {
             "data-title": "Harrisimemna Trisignata",
             "data-material": "Bronze",
             "data-dimensions": "55mm x 55mm x 65mm",
