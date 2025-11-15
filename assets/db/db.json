@@ -1,6 +1,62 @@
 {
     "data": [
         {
+            "data-title": "Argyrotaenia Floridana",
+            "data-material": "Bronze",
+            "data-dimensions": "45mm x 45mm x 67mm",
+            "data-year": "2025",
+            "img src": "assets/images/Argyrotaenia-floridana.jpeg",
+            "available": "🟩"
+        },
+        {
+            "data-title": "Epiblema Tripartitana 0",
+            "data-material": "Bronze",
+            "data-dimensions": "48mm x 48mm x 74mm",
+            "data-year": "2025",
+            "img src": "assets/images/Epiblema-tripartitana-0.jpeg",
+            "available": "🟩"
+        },
+        {
+            "data-title": "Epiblema Tripartitana III",
+            "data-material": "Bronze",
+            "data-dimensions": "48mm x 48mm x 74mm",
+            "data-year": "2025",
+            "img src": "assets/images/Epiblema-tripartitana-III.jpeg",
+            "available": "🟩"
+        },
+        {
+            "data-title": "Epiblema Tripartitana VII",
+            "data-material": "Bronze",
+            "data-dimensions": "48mm x 48mm x 74mm",
+            "data-year": "2025",
+            "img src": "assets/images/Epiblema-tripartitana-VII.jpeg",
+            "available": "🟩"
+        },
+        {
+            "data-title": "Eupithecia Unicolor",
+            "data-material": "Bronze, Obsidian (Bead), Sterling Silver",
+            "data-dimensions": "30mm x 30mm x 78mm",
+            "data-year": "2025",
+            "img src": "assets/images/Eupithecia-unicolor.jpeg",
+            "available": "🟩"
+        },
+        {
+            "data-title": "Filatima Revisensis",
+            "data-material": "Bronze",
+            "data-dimensions": "35mm x 35mm x 64mm",
+            "data-year": "2025",
+            "img src": "assets/images/Filatima-revisensis.jpeg",
+            "available": "🟩"
+        },
+        {
+            "data-title": "Pyrausta Augustalis",
+            "data-material": "Bronze",
+            "data-dimensions": "50mm x 50mm x 63mm",
+            "data-year": "2025",
+            "img src": "assets/images/Pyrausta-augustalis.jpeg",
+            "available": "🟩"
+        },
+        {
             "data-title": "Aspilanta Oinophylla",
             "data-material": "Bronze",
             "data-dimensions": "40mm x 40mm x 77mm",
